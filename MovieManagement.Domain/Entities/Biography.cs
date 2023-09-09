@@ -1,6 +1,6 @@
 ﻿namespace MovieManagement.Domain.Entities
 {
-    public class Biography
+    public class Biography : BaseModel
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;

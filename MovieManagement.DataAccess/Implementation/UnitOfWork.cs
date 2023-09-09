@@ -14,12 +14,10 @@ namespace MovieManagement.DataAccess.Implementation
             Genre = new GenreRepository(_dbContext);
             Biography = new BiographyRepository(_dbContext);
         }
+
         public IActorRepository Actor { get; private set; }
-
         public IMovieRepository Movie { get; private set; }
-
         public IGenreRepository Genre { get; private set; }
-
         public IBiographyRepository Biography { get; private set; }
 
         public void Dispose()

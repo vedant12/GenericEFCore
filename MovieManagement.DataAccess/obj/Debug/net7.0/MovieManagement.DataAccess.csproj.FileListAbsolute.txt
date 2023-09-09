@@ -1,0 +1,17 @@
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.deps.json
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.runtimeconfig.json
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.dll
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.pdb
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.Domain.dll
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.Domain.pdb
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.AssemblyInfo.cs
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.CopyComplete
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.dll
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\obj\Debug\net7.0\refint\MovieManagement.DataAccess.dll
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.pdb
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.genruntimeconfig.cache
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.DataAccess\obj\Debug\net7.0\ref\MovieManagement.DataAccess.dll

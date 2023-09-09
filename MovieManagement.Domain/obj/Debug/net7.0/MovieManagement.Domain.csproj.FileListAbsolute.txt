@@ -1,0 +1,11 @@
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.Domain\bin\Debug\net7.0\MovieManagement.Domain.deps.json
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.Domain\bin\Debug\net7.0\MovieManagement.Domain.dll
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.Domain\bin\Debug\net7.0\MovieManagement.Domain.pdb
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.AssemblyInfoInputs.cache
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.AssemblyInfo.cs
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.dll
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.Domain\obj\Debug\net7.0\refint\MovieManagement.Domain.dll
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.pdb
+C:\Workspace\.NET Core\Web Apis\CUMovieManagementService\MovieManagement.Domain\obj\Debug\net7.0\ref\MovieManagement.Domain.dll
